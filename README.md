@@ -4,7 +4,7 @@
 This notebook contains the complete data cleaning and preprocessing steps applied on the Titanic dataset for machine learning purposes.
 
 ##  Dataset
-- Source: [Titanic Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+- Source: [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 ##  Tasks Completed
 - Imported dataset and explored nulls & data types
