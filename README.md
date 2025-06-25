@@ -1,5 +1,5 @@
 # AML_Intern_elevate
-# 🚢 Titanic Data Cleaning & Preprocessing
+# Titanic Data Cleaning & Preprocessing
 
 This notebook contains the complete data cleaning and preprocessing steps applied on the Titanic dataset for machine learning purposes.
 
